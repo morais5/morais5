@@ -24,7 +24,7 @@ const Morais  = {
 
   Eu trabalho muitas horas seguintes se quiseres me comprar cafe/chá esta avontade 🥺👉👈
 
-<a  href="https://www.paypal.com/paypalme/srztit"  target="_blank"><img  src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"  alt="Buy Me A Coffee"  width="150" ></a>
+<a  href="https://www.paypal.com/paypalme/discordjordann"  target="_blank"><img  src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"  alt="Buy Me A Coffee"  width="150" ></a>
 
 
 <!--START_SECTION:waka-->
