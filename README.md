@@ -14,7 +14,7 @@ const Morais  = {
     technologies: {
         databases: ["MySql"]
     },
-    currentProject: "Creating the best KOTH-Framework with my man Tazio!",
+    currentProject: "Creating PowerLineRP!",
     Thought: "StackOverflow is the most toxic forum.",
     Thought: "LUA Documentation is "shit"
 };
