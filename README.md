@@ -1,5 +1,5 @@
 
-<h2> (Hello)🙏🏻, I'm Miguel Morais! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> (Hello)🙏🏻, I'm Morais! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
@@ -7,7 +7,7 @@
 
 ```javascript
 const Morais  = {
-    pronouns: "Mguel" | "Morais",
+    pronouns: "Morais",
     contact: "Morais#0005",
     code: ["LUA", "HTML", "CSS", "Python(), MySQL"],
     askMeAbout: ["Game Dev", "Tech", "Gaming"],
