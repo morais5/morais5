@@ -30,7 +30,7 @@ const Morais  = {
 📊 **Goals** 
 
 ```text
-⌚︎ Timezone: Europe/PT
+⌚︎ Timezone: Europe/ES
 
 
 
