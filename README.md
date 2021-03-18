@@ -36,7 +36,7 @@ const Morais  = {
 
 💻 Operating Systems: 
 Windows                  Way to much        █████████████████████████   100.0%
-Ubunto                   A bit              
+Ubuntu                   A bit              
 
 ```
 
