@@ -18,4 +18,3 @@ const Morais  = {
     DiscordMoraisScripts: "https://discord.gg/KSNWJ9UMvH",
 };
 ```
----
