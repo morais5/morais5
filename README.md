@@ -20,25 +20,4 @@ const Morais  = {
 
 ---
 
-
-<!--START_SECTION:waka-->
-**I'm a late owl** 
-
-
-📊 **Goals** 
-
-```text
-⌚︎ Timezone: Europe/ES
-
-
-
-💻 Operating Systems: 
-Windows                  Way to much        █████████████████████████   100.0%
-Ubuntu                   A bit              ██                          20.0%
-
-```
-
-
-<!--END_SECTION:waka-->
-
 My Discord - https://discord.gg/KSNWJ9UMvH 
