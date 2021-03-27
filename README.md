@@ -9,7 +9,7 @@
 const Morais  = {
     pronouns: "Morais",
     contact: "Morais#0005",
-    code: ["LUA", "HTML", "CSS", "Python(), MySQL"],
+    code: ["LUA", "HTML", "CSS", "Python(), MySQL", "Java", "JS", "VB"],
     askMeAbout: ["Game Dev", "Tech", "Gaming"],
     technologies: {
         databases: ["MySql"]
