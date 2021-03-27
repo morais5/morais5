@@ -15,8 +15,6 @@ const Morais  = {
         databases: ["MySql"]
     },
     currentProject: "Creating Morais-Scripts!",
-    Thought: "StackOverflow is the most toxic forum.",
-    Thought: "LUA Documentation is "shit"
 };
 ```
 
