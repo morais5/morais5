@@ -17,7 +17,6 @@ const Morais  = {
     currentProject: "Creating Morais-Scripts!",
 };
 ```
+My Discord - https://discord.gg/KSNWJ9UMvH 
 
 ---
-
-My Discord - https://discord.gg/KSNWJ9UMvH 
