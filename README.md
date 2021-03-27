@@ -7,7 +7,7 @@
 
 ```javascript
 const Morais  = {
-    pronouns: "Morais", "Miguel", "Migueis"
+    pronouns: "Morais", "Miguel", "Migueis",
     contact: "Morais#0005",
     code: ["LUA", "HTML", "CSS", "Python(), MySQL", "Java", "JS", "VB"],
     askMeAbout: ["Game Dev", "Tech", "Gaming"],
