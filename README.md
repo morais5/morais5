@@ -14,7 +14,7 @@ const Morais  = {
     technologies: {
         databases: ["MySql"]
     },
-    currentProject: "Creating Morais-Scripts!",
+    currentProject: "Creating Morais-Scripts and MS-Framework!",
     DiscordMoraisScripts: "https://discord.gg/KSNWJ9UMvH",
 };
 ```
